@@ -28,3 +28,15 @@ It uses a JSON-like format to store documents.
 > JWT (JSON Web Tokens):
 Implement secure user authentication using tokens to manage user
 sessions.
+
+
+Run:
+frontend:
+npm install
+npm run start
+
+backend:
+npm install
+npm run dev 
+and change 
+.env file database credentials
