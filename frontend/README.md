@@ -32,11 +32,10 @@ sessions.
 
 Run:
 frontend:
-npm install
-npm run start
+1. npm install, 
+2. npm run start
 
 backend:
-npm install
-npm run dev 
-and change 
-.env file database credentials
+1. npm install, 
+2. npm run dev,  
+3. .env file : user your own credentials
